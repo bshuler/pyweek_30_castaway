@@ -13,7 +13,7 @@ Requires Python 3.7 or higher and ursina.
 3) Move into the game's directory and run main.py with "python main.py"
 
 How to run on MacOS by running the non-packaged version:
-Requires Python 3.7 or higher and ursina.
+Requires Python 3.10 or higher and ursina. (Tested Python 3.10.17)
 
 1) Install the most recent version of ursina with "pip install ursina"
 2) Clone or download the game's repo with "git clone https://github.com/bshuler/pyweek_30_castaway.git --depth=1"
